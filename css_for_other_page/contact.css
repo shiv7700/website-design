@@ -1,0 +1,15 @@
+#contact h1{
+    text-align: center;
+    text-decoration: underline;
+    text-underline-offset: 10px;
+}
+
+
+#contact p{
+    height: 300px;
+    width: 500px;
+    margin: 100px;
+    margin-left: 470px;
+    margin-bottom: 200px;
+}
+
